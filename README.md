@@ -3,6 +3,16 @@
 
 This project analyzes **hotel booking and cancellation trends** using historical booking data. An interactive **Excel dashboard** was created to visualize key metrics and understand patterns in customer booking behavior.
 
+## 📂 Dataset Description
+
+The dataset used in this project is the **Hotel Booking Analysis Dataset** from Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/datadives/hotel-booking-analysis
+
+This dataset contains detailed information about hotel reservations for both **City Hotels and Resort Hotels**. Each record represents a hotel booking and includes information about booking status, guest details, stay duration, and hotel services.
+
+
 ### 🔹 Project Highlights
 - Developed an **interactive Excel dashboard** to analyze hotel booking and cancellation data.
 - Performed **data cleaning and preparation** to ensure accurate analysis.
