@@ -33,5 +33,6 @@ This dataset contains detailed information about hotel reservations for both **C
 The dashboard provides clear insights into **booking behavior, guest preferences, and cancellation trends**. These insights can help hotels improve **booking management, demand forecasting, and cancellation reduction strategies**.
 
 
-##  Hotel Booking Cancellation Dashboard
-(https://github.com/Rutuja567/Hotel-Booking-Cancellation/blob/main/hotel%20dashboard.png)
+##  Hotel Booking Cancellation Dashboard## Dashboard Preview
+
+<img width="1191" height="672" alt="Hotel Booking Dashboard" src="https://raw.githubusercontent.com/Rutuja567/Hotel-Booking-Cancellation/main/hotel%20dashboard.png" />
