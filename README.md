@@ -24,4 +24,4 @@ The dashboard provides clear insights into **booking behavior, guest preferences
 
 
 ##  Hotel Booking Cancellation Dashboard
-<a href = "https://github.com/Rutuja567/Hotel-Booking-Cancellation/blob/main/hotel%20dashboard.png">
+(https://github.com/Rutuja567/Hotel-Booking-Cancellation/blob/main/hotel%20dashboard.png)
