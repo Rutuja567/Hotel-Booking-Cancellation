@@ -22,3 +22,4 @@ This project analyzes **hotel booking and cancellation trends** using historical
 ### 📌 Conclusion
 The dashboard provides clear insights into **booking behavior, guest preferences, and cancellation trends**. These insights can help hotels improve **booking management, demand forecasting, and cancellation reduction strategies**.
 
+<img width="1191" height="672" alt="Hotel Booking Dashboard" src="https://github.com/user-attachments/assets/b89f3344-41ec-4a43-b0b0-896b7d444e6c" />
