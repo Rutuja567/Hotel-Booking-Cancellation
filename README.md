@@ -4,4 +4,5 @@ Analyzed hotel booking and cancellation data using Excel to identify trends in g
 Created an interactive dashboard with charts and KPIs to visualize total bookings, cancellations, and booking patterns.
 ## 📊 Hotel Booking Cancellation Dashboard
 
-![Hotel Booking Cancellation Dashboard](https://raw.githubusercontent.com/your-username/your-repository-name/main/dashboard.png)
+C:\Users\User\Downloads\hotel dashboard.png
+
